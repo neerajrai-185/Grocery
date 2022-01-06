@@ -23,9 +23,7 @@ For Backend firebase.
 
 ![11](https://user-images.githubusercontent.com/85708102/147502028-a157e5e0-21b5-4768-b873-c1222b4e84af.jpg)
 
-![12](https://user-images.githubusercontent.com/85708102/147502174-7a12ec71-a104-4653-92e3-83e0245c2544.jpg)
-
-![12](https://user-images.githubusercontent.com/85708102/148396201-899134ab-e899-4f50-b222-ad4dc2909ea8.jpeg)
+![12](https://user-images.githubusercontent.com/85708102/148396993-4c60b49d-bb76-4843-9c05-add71163e966.jpeg)
 
 ![14](https://user-images.githubusercontent.com/85708102/147502181-5a92c01b-024b-430d-bb08-44fcf9ec788e.jpg)
 
