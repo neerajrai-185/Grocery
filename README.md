@@ -56,7 +56,7 @@ Choose Payment Option
 After Choosing Payment
 
 
-![Cart Item 4 Choose Payment](https://user-images.githubusercontent.com/85708102/148742365-feb4b632-cd34-4db4-8b48-89eee4e11585.jpg)
+![Cart Item 1](https://user-images.githubusercontent.com/85708102/148741751-b5329267-4f9c-4922-a323-97d74b762f97.jpg)
 
 Buy Now 
 
@@ -78,12 +78,12 @@ User Edit Profile
 ![Edit Profile](https://user-images.githubusercontent.com/85708102/148743879-dda4db4a-4af8-4139-a8c7-52ec6da460a7.jpg)
 
 User Order Status
+![IMG_20220110_154209](https://user-images.githubusercontent.com/85708102/148750741-0b325ebe-fd5d-42df-aaa5-3b61ec2fb7ce.jpg)
 
-![10](https://user-images.githubusercontent.com/85708102/147502004-51794c86-9b27-49d1-add0-fd3275797ad5.jpg)
 
 User View Full Status
+![IMG_20220110_154925](https://user-images.githubusercontent.com/85708102/148750784-2466087d-6440-4b3e-8c5f-ef752490d761.jpg)
 
-![11](https://user-images.githubusercontent.com/85708102/147502028-a157e5e0-21b5-4768-b873-c1222b4e84af.jpg)
 
 
 
@@ -141,17 +141,17 @@ Delete/ Update Product
 ![F](https://user-images.githubusercontent.com/85708102/147502684-3c4e19ea-4cc7-4ce8-ab6b-81fc03f42076.jpg)
 
 Manage  Products and Categories
- 
-![B](https://user-images.githubusercontent.com/85708102/147502662-feb85352-5a2e-4275-92fb-eddd65304c59.jpg)
+
+![IMG_20220110_155827](https://user-images.githubusercontent.com/85708102/148751381-e9620f40-c78c-4bb5-a02f-b30c4ac69e53.jpg)
 
 
 Manage User Orders
 
-![g](https://user-images.githubusercontent.com/85708102/147503029-71fb23ee-2d93-437a-b15e-d04643bc5c64.jpg)
+![IMG_20220110_154738](https://user-images.githubusercontent.com/85708102/148750959-de8d54b8-3f6f-43c0-82bb-14454c76d2fd.jpg)
+
 
 View User Orders Detail
-
-![h](https://user-images.githubusercontent.com/85708102/147503041-518fed45-5a7b-4df2-a2ba-2dd666de931f.jpg)
+![IMG_20220110_154705](https://user-images.githubusercontent.com/85708102/148750408-3b4e3ec6-578c-41ab-a0bc-e60ae2cdc5ea.jpg)
 
 Contact User 
 
@@ -164,5 +164,6 @@ Mark User Order is Completed or Cancelled
 
 
 Admin Store Detail
+![IMG_20220110_154625](https://user-images.githubusercontent.com/85708102/148750553-5ed530f5-6a25-4a3e-bd5c-381d2353d5f8.jpg)
 
-![k](https://user-images.githubusercontent.com/85708102/147503073-19342cd7-ba28-474a-8236-2db76f4d370b.jpg)
+
