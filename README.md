@@ -53,19 +53,22 @@ Choose Payment Option
 
 ![Cart Item 4 Choose Payment](https://user-images.githubusercontent.com/85708102/148742230-972e465c-8570-46d4-95dc-2034557a51aa.jpg)
 
-After Choosing Payment
 
-
-![Cart Item 1](https://user-images.githubusercontent.com/85708102/148741751-b5329267-4f9c-4922-a323-97d74b762f97.jpg)
 
 Buy Now 
 
 ![Cart Item 5 Place the order](https://user-images.githubusercontent.com/85708102/148742424-bca23f38-bc98-4a71-93df-c92e8462e62b.jpg)
 
 
-After Buying
+After CheckOut Cart is Empty 
 
 ![Cart Item 6 After the order](https://user-images.githubusercontent.com/85708102/148742552-58a2edd7-f730-4381-8248-138022dd5ded.jpg)
+
+
+Admin Will Get New Notification
+
+![Admin Order recived](https://user-images.githubusercontent.com/85708102/148753257-cce50aeb-e909-464e-b403-4a3efa31571d.jpg)
+
 
 Account
 
@@ -78,10 +81,12 @@ User Edit Profile
 ![Edit Profile](https://user-images.githubusercontent.com/85708102/148743879-dda4db4a-4af8-4139-a8c7-52ec6da460a7.jpg)
 
 User Order Status
+
 ![IMG_20220110_154209](https://user-images.githubusercontent.com/85708102/148750741-0b325ebe-fd5d-42df-aaa5-3b61ec2fb7ce.jpg)
 
 
-User View Full Status
+User View Full Order Details
+
 ![IMG_20220110_154925](https://user-images.githubusercontent.com/85708102/148750784-2466087d-6440-4b3e-8c5f-ef752490d761.jpg)
 
 
@@ -112,6 +117,9 @@ User Edit Office
 
 ![Edit Address Home 6](https://user-images.githubusercontent.com/85708102/148745643-aed47a68-746f-448a-964a-93a70c98c118.jpg)
 
+
+***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
 Admin Login
 
 ![Admin Login](https://user-images.githubusercontent.com/85708102/148745778-ef8b2f13-6a9d-475a-b1ea-a7ecfa6b332f.jpg)
@@ -137,12 +145,12 @@ Add Product
 ![E](https://user-images.githubusercontent.com/85708102/147502677-b91f46f7-1eaf-4f8d-a3f5-7a175b984339.jpg)
 
 Delete/ Update Product
+![IMG_20220110_155827](https://user-images.githubusercontent.com/85708102/148752158-9b91267b-f4c7-4c30-8943-e92b058b8b30.jpg)
 
-![F](https://user-images.githubusercontent.com/85708102/147502684-3c4e19ea-4cc7-4ce8-ab6b-81fc03f42076.jpg)
 
 Manage  Products and Categories
 
-![IMG_20220110_155827](https://user-images.githubusercontent.com/85708102/148751381-e9620f40-c78c-4bb5-a02f-b30c4ac69e53.jpg)
+![IMG_20220110_154817](https://user-images.githubusercontent.com/85708102/148752117-f3e33bcb-401b-4600-ad40-dc919f0c5a3c.jpg)
 
 
 Manage User Orders
@@ -162,8 +170,13 @@ Mark User Order is Completed or Cancelled
 
 ![i](https://user-images.githubusercontent.com/85708102/147503057-4c2e83f2-aeac-4437-a8d7-7a6e730c92d4.jpg)
 
+If Order Completed Then User Will Get Notification
+
+
+![User Order Completed](https://user-images.githubusercontent.com/85708102/148753467-81e4ef1e-1f35-4509-8209-4e60edb0ffba.jpg)
 
 Admin Store Detail
+
 ![IMG_20220110_154625](https://user-images.githubusercontent.com/85708102/148750553-5ed530f5-6a25-4a3e-bd5c-381d2353d5f8.jpg)
 
 
