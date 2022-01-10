@@ -88,11 +88,17 @@ User View Full Status
 
 
 
-
+User Add Address
 
 ![14](https://user-images.githubusercontent.com/85708102/147502181-5a92c01b-024b-430d-bb08-44fcf9ec788e.jpg)
 
+Adding Home Address
+![Add Address 2](https://user-images.githubusercontent.com/85708102/148744779-81342a21-f39a-4462-9426-428142ae05df.jpg)
+
 ![13](https://user-images.githubusercontent.com/85708102/147502186-d338a058-7c1c-4369-8d8d-c88ce15fc487.jpg)
+Adding Home Office
+
+![Add Address 3](https://user-images.githubusercontent.com/85708102/148744814-792584e8-206b-4962-844b-c943caecc4b7.jpg)
 
 ![15](https://user-images.githubusercontent.com/85708102/147502247-c7b3af2a-1866-426e-9f68-da7d90ca798e.jpg)
 
