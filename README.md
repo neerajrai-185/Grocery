@@ -1,9 +1,23 @@
 # Grocery
 Grocery with amazing design using flutter and dart you just fall in love with design.
 For Backend firebase.
+
+Slider 
+
 ![1](https://user-images.githubusercontent.com/85708102/147500298-1db49158-69a2-4cf2-b6dc-bcc568047fb9.jpg)
 
+Registration User
+
+![User Registration](https://user-images.githubusercontent.com/85708102/148740886-51286d48-9726-407e-98fe-efced58e5177.jpg)
+
+User Login
+
 ![2](https://user-images.githubusercontent.com/85708102/147500558-6b5586e8-fb2c-4dab-8acb-7689bc0d3f62.jpg)
+
+User Login With Google
+
+![3](https://user-images.githubusercontent.com/85708102/148740979-1c0bbe13-3882-48b9-8d61-39fc755c1ffd.jpg)
+
 
 ![3](https://user-images.githubusercontent.com/85708102/147500675-01d0011a-1f00-4ef7-a4dd-42153129e5f6.jpg)
 
