@@ -96,9 +96,28 @@ Adding Home Address
 ![Add Address 2](https://user-images.githubusercontent.com/85708102/148744779-81342a21-f39a-4462-9426-428142ae05df.jpg)
 
 ![13](https://user-images.githubusercontent.com/85708102/147502186-d338a058-7c1c-4369-8d8d-c88ce15fc487.jpg)
-Adding Home Office
+Adding Office Address
 
 ![Add Address 3](https://user-images.githubusercontent.com/85708102/148744814-792584e8-206b-4962-844b-c943caecc4b7.jpg)
+
+User Edit Address
+![Edit Address Choce 4](https://user-images.githubusercontent.com/85708102/148745356-105a7042-8d48-4165-8750-359b2d524f08.jpg)
+
+User Edit Home
+
+![Edit Address Home 5](https://user-images.githubusercontent.com/85708102/148745535-384fe5be-e826-4542-b246-75307ed60ac9.jpg)
+
+
+User Edit Office
+
+![Edit Address Home 6](https://user-images.githubusercontent.com/85708102/148745643-aed47a68-746f-448a-964a-93a70c98c118.jpg)
+
+Admin Login
+![Admin Login](https://user-images.githubusercontent.com/85708102/148745778-ef8b2f13-6a9d-475a-b1ea-a7ecfa6b332f.jpg)
+
+
+Admin DashBoard 
+![Admin DashBoard](https://user-images.githubusercontent.com/85708102/148745841-b08919d9-3158-4d1d-9b9e-e47e28316aee.jpg)
 
 ![15](https://user-images.githubusercontent.com/85708102/147502247-c7b3af2a-1866-426e-9f68-da7d90ca798e.jpg)
 
