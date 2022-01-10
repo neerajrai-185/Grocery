@@ -8,7 +8,8 @@ Slider
 
 User Registration 
 
-![User Registration](https://user-images.githubusercontent.com/85708102/148740886-51286d48-9726-407e-98fe-efced58e5177.jpg)
+![IMG_20220110_230139](https://user-images.githubusercontent.com/85708102/148811844-74140e11-f7b2-4431-b299-3ddd5f573e38.jpg)
+
 
 User Login
 
