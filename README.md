@@ -72,13 +72,23 @@ After Buying
 
 Account
 
+![Account](https://user-images.githubusercontent.com/85708102/148743040-1181f158-594e-4806-8c78-f97bf477488a.jpg)
+
+
 ![9](https://user-images.githubusercontent.com/85708102/147501993-39154618-3d3c-42f1-8601-c9cf6d2b14bf.jpg)
 
+User Edit Profile
+![Edit Profile](https://user-images.githubusercontent.com/85708102/148743879-dda4db4a-4af8-4139-a8c7-52ec6da460a7.jpg)
+
+User Order Status 
 ![10](https://user-images.githubusercontent.com/85708102/147502004-51794c86-9b27-49d1-add0-fd3275797ad5.jpg)
 
+User View Full Status 
 ![11](https://user-images.githubusercontent.com/85708102/147502028-a157e5e0-21b5-4768-b873-c1222b4e84af.jpg)
 
-![12](https://user-images.githubusercontent.com/85708102/148396993-4c60b49d-bb76-4843-9c05-add71163e966.jpeg)
+
+
+
 
 ![14](https://user-images.githubusercontent.com/85708102/147502181-5a92c01b-024b-430d-bb08-44fcf9ec788e.jpg)
 
