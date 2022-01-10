@@ -6,7 +6,7 @@ Slider
 
 ![1](https://user-images.githubusercontent.com/85708102/147500298-1db49158-69a2-4cf2-b6dc-bcc568047fb9.jpg)
 
-Registration User
+User Registration 
 
 ![User Registration](https://user-images.githubusercontent.com/85708102/148740886-51286d48-9726-407e-98fe-efced58e5177.jpg)
 
@@ -18,18 +18,59 @@ User Login With Google
 
 ![3](https://user-images.githubusercontent.com/85708102/148740979-1c0bbe13-3882-48b9-8d61-39fc755c1ffd.jpg)
 
+User Home Page Part 1
+
 
 ![3](https://user-images.githubusercontent.com/85708102/147500675-01d0011a-1f00-4ef7-a4dd-42153129e5f6.jpg)
 
+User Home Page Part 2
+
+
 ![4](https://user-images.githubusercontent.com/85708102/147500694-e73ca1d8-ad40-487b-91f4-a4dfe104c816.jpg)
+
+Before Add To Cart Cart is Empty
 
 ![5](https://user-images.githubusercontent.com/85708102/147500745-3731056b-cff0-465a-ab50-02cb723d2f81.jpg)
 
+After Add To Cart  
+
+![Cart Item 1](https://user-images.githubusercontent.com/85708102/148741751-b5329267-4f9c-4922-a323-97d74b762f97.jpg)
+
+
 ![6](https://user-images.githubusercontent.com/85708102/147501945-14d0372f-68df-4e87-a111-3b5078f09307.jpg)
+
+Choose Address For Delivery 
+
+![Cart Item 2 choose Address](https://user-images.githubusercontent.com/85708102/148742001-648b121b-aa29-49ec-af2b-fc68f083fc43.jpg)
+
+
 
 ![7](https://user-images.githubusercontent.com/85708102/147501959-5bd087a9-d3c3-4bf6-b4d0-16420de256bd.jpg)
 
+After Choosing The Address
+
+![Cart Item 3](https://user-images.githubusercontent.com/85708102/148742175-0a494470-1783-4b30-8555-0336599bf0bb.jpg)
+
+Choose Payment Option
+
+![Cart Item 4 Choose Payment](https://user-images.githubusercontent.com/85708102/148742230-972e465c-8570-46d4-95dc-2034557a51aa.jpg)
+
+After Choosing Payment
+
+
+![Cart Item 4 Choose Payment](https://user-images.githubusercontent.com/85708102/148742365-feb4b632-cd34-4db4-8b48-89eee4e11585.jpg)
+
+Buy Now 
+
+![Cart Item 5 Place the order](https://user-images.githubusercontent.com/85708102/148742424-bca23f38-bc98-4a71-93df-c92e8462e62b.jpg)
+
 ![8](https://user-images.githubusercontent.com/85708102/147501970-2b1e29a0-dfe2-4d74-b746-b3a293fd9f26.png)
+
+After Buying
+
+![Cart Item 6 After the order](https://user-images.githubusercontent.com/85708102/148742552-58a2edd7-f730-4381-8248-138022dd5ded.jpg)
+
+Account
 
 ![9](https://user-images.githubusercontent.com/85708102/147501993-39154618-3d3c-42f1-8601-c9cf6d2b14bf.jpg)
 
