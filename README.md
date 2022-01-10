@@ -37,7 +37,6 @@ After Add To Cart
 ![Cart Item 1](https://user-images.githubusercontent.com/85708102/148741751-b5329267-4f9c-4922-a323-97d74b762f97.jpg)
 
 
-![6](https://user-images.githubusercontent.com/85708102/147501945-14d0372f-68df-4e87-a111-3b5078f09307.jpg)
 
 Choose Address For Delivery 
 
@@ -45,7 +44,6 @@ Choose Address For Delivery
 
 
 
-![7](https://user-images.githubusercontent.com/85708102/147501959-5bd087a9-d3c3-4bf6-b4d0-16420de256bd.jpg)
 
 After Choosing The Address
 
@@ -64,7 +62,6 @@ Buy Now
 
 ![Cart Item 5 Place the order](https://user-images.githubusercontent.com/85708102/148742424-bca23f38-bc98-4a71-93df-c92e8462e62b.jpg)
 
-![8](https://user-images.githubusercontent.com/85708102/147501970-2b1e29a0-dfe2-4d74-b746-b3a293fd9f26.png)
 
 After Buying
 
@@ -75,15 +72,17 @@ Account
 ![Account](https://user-images.githubusercontent.com/85708102/148743040-1181f158-594e-4806-8c78-f97bf477488a.jpg)
 
 
-![9](https://user-images.githubusercontent.com/85708102/147501993-39154618-3d3c-42f1-8601-c9cf6d2b14bf.jpg)
 
 User Edit Profile
+
 ![Edit Profile](https://user-images.githubusercontent.com/85708102/148743879-dda4db4a-4af8-4139-a8c7-52ec6da460a7.jpg)
 
-User Order Status 
+User Order Status
+
 ![10](https://user-images.githubusercontent.com/85708102/147502004-51794c86-9b27-49d1-add0-fd3275797ad5.jpg)
 
-User View Full Status 
+User View Full Status
+
 ![11](https://user-images.githubusercontent.com/85708102/147502028-a157e5e0-21b5-4768-b873-c1222b4e84af.jpg)
 
 
@@ -93,14 +92,15 @@ User Add Address
 ![14](https://user-images.githubusercontent.com/85708102/147502181-5a92c01b-024b-430d-bb08-44fcf9ec788e.jpg)
 
 Adding Home Address
+
 ![Add Address 2](https://user-images.githubusercontent.com/85708102/148744779-81342a21-f39a-4462-9426-428142ae05df.jpg)
 
-![13](https://user-images.githubusercontent.com/85708102/147502186-d338a058-7c1c-4369-8d8d-c88ce15fc487.jpg)
 Adding Office Address
 
 ![Add Address 3](https://user-images.githubusercontent.com/85708102/148744814-792584e8-206b-4962-844b-c943caecc4b7.jpg)
 
 User Edit Address
+
 ![Edit Address Choce 4](https://user-images.githubusercontent.com/85708102/148745356-105a7042-8d48-4165-8750-359b2d524f08.jpg)
 
 User Edit Home
@@ -113,32 +113,56 @@ User Edit Office
 ![Edit Address Home 6](https://user-images.githubusercontent.com/85708102/148745643-aed47a68-746f-448a-964a-93a70c98c118.jpg)
 
 Admin Login
+
 ![Admin Login](https://user-images.githubusercontent.com/85708102/148745778-ef8b2f13-6a9d-475a-b1ea-a7ecfa6b332f.jpg)
 
 
 Admin DashBoard 
+
 ![Admin DashBoard](https://user-images.githubusercontent.com/85708102/148745841-b08919d9-3158-4d1d-9b9e-e47e28316aee.jpg)
 
-![15](https://user-images.githubusercontent.com/85708102/147502247-c7b3af2a-1866-426e-9f68-da7d90ca798e.jpg)
 
-![AA](https://user-images.githubusercontent.com/85708102/147502651-4f452d79-2476-4436-8b2f-7f7c996680d9.jpg)
 
-![B](https://user-images.githubusercontent.com/85708102/147502662-feb85352-5a2e-4275-92fb-eddd65304c59.jpg)
+
+Add Category
 
 ![C](https://user-images.githubusercontent.com/85708102/147502671-a220df24-b38b-4663-b88e-ad77d4516341.jpg)
 
+Delete/Update Category
+
 ![D](https://user-images.githubusercontent.com/85708102/147502675-7057ccf0-bef6-469c-a28f-8cbaece61772.jpg)
+
+Add Product
 
 ![E](https://user-images.githubusercontent.com/85708102/147502677-b91f46f7-1eaf-4f8d-a3f5-7a175b984339.jpg)
 
+Delete/ Update Product
+
 ![F](https://user-images.githubusercontent.com/85708102/147502684-3c4e19ea-4cc7-4ce8-ab6b-81fc03f42076.jpg)
+
+Manage  Products and Categories
+ 
+![B](https://user-images.githubusercontent.com/85708102/147502662-feb85352-5a2e-4275-92fb-eddd65304c59.jpg)
+
+
+Manage User Orders
 
 ![g](https://user-images.githubusercontent.com/85708102/147503029-71fb23ee-2d93-437a-b15e-d04643bc5c64.jpg)
 
+View User Orders Detail
+
 ![h](https://user-images.githubusercontent.com/85708102/147503041-518fed45-5a7b-4df2-a2ba-2dd666de931f.jpg)
+
+Contact User 
+
+![j](https://user-images.githubusercontent.com/85708102/147503065-b8cfa3ce-0f6b-48fa-af06-383e9c098eaa.jpg)
+
+
+Mark User Order is Completed or Cancelled
 
 ![i](https://user-images.githubusercontent.com/85708102/147503057-4c2e83f2-aeac-4437-a8d7-7a6e730c92d4.jpg)
 
-![j](https://user-images.githubusercontent.com/85708102/147503065-b8cfa3ce-0f6b-48fa-af06-383e9c098eaa.jpg)
+
+Admin Store Detail
 
 ![k](https://user-images.githubusercontent.com/85708102/147503073-19342cd7-ba28-474a-8236-2db76f4d370b.jpg)
